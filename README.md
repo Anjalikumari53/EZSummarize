@@ -1,0 +1,2 @@
+# EZSummarize
+Automatic Text Summarization
